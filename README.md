@@ -8,7 +8,8 @@ Check out the live demo on
 
 ## Preview
 
-![Animated Book]
+![Animated Book]![Screenshot 2024-07-05 223025](https://github.com/uttambodara/BookAnimations-project/assets/129719033/75c0939f-9520-4a8e-86b7-1c1b8aeda03c)
+
 
 
 
