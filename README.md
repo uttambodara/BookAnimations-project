@@ -1,10 +1,10 @@
+
 # Animated Book Repository
 
 Welcome to the Animated Book repository! This repository contains a visually appealing animated book where each page showcases different images.
 ## Demo
 
 Check out the live demo on 
-
 
 ## Preview
 
